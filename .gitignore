@@ -1,2 +1,3 @@
 a.out
 third_party/bdwgc/
+build/*
